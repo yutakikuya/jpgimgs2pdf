@@ -11,7 +11,7 @@ ex. 裁断した本をpdfファイルにしたい時
 
 HOW TO USE
 ----------
-bash jpgimgs2pdf.sh [FOLDER_NAME]
+    bash jpgimgs2pdf.sh [FOLDER_NAME]
 
 フォルダの中のjpgファイルをpdfに結合します．
 
