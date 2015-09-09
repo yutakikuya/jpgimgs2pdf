@@ -20,9 +20,3 @@ HOW TO USE
 imagemagickをいれてconvertを使えるようにしてください
 
 pdftkを使えるようにしてください
-
-TODO
-----
-ソースが汚いので誰か直してください
-
-
